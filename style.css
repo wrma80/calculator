@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.container, h1 {
+    margin: 10px;
+}
+
+#display {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 230px;
+}
+
+button {
+    height: 60px;
+    margin-bottom: 5px;
+    width: 60px;
+}
